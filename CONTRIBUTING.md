@@ -41,3 +41,4 @@ Notes and usage details for svelte-bash.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- link the usage section
